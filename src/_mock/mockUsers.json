@@ -1,0 +1,452 @@
+[
+    {
+        "id": "19ce3f5b-13c1-4a94-bd46-243a1e833353",
+        "avatarUrl": "/assets/images/avatars/avatar_1.jpg",
+        "name": "Ebri Goodness",
+        "company": "Aufderhar LLC",
+        "isVerified": false,
+        "status": "banned",
+        "role": "UI Designer"
+    },
+    {
+        "id": "dde83876-219c-49f5-b8c2-f0718414e8d8",
+        "avatarUrl": "/assets/images/avatars/avatar_2.jpg",
+        "name": "Jonathon McGlynn",
+        "company": "Von - Schmeler",
+        "isVerified": true,
+        "status": "active",
+        "role": "Backend Developer"
+    },
+    {
+        "id": "386ede64-f353-40dd-ac64-51f6adce914a",
+        "avatarUrl": "/assets/images/avatars/avatar_3.jpg",
+        "name": "Juanita McClure",
+        "company": "Flatley Inc",
+        "isVerified": true,
+        "status": "active",
+        "role": "Leader"
+    },
+    {
+        "id": "bbb6d257-d866-4e43-9d89-fcaf4c5859e6",
+        "avatarUrl": "/assets/images/avatars/avatar_4.jpg",
+        "name": "Casey Lemke",
+        "company": "Kohler - Nader",
+        "isVerified": false,
+        "status": "active",
+        "role": "Leader"
+    },
+    {
+        "id": "40ef5124-f03c-4667-9e50-d72450bb0cf4",
+        "avatarUrl": "/assets/images/avatars/avatar_5.jpg",
+        "name": "Adrienne Prohaska",
+        "company": "Welch LLC",
+        "isVerified": false,
+        "status": "banned",
+        "role": "Hr Manager"
+    },
+    {
+        "id": "96edd921-19ce-44eb-90bd-c289066212ab",
+        "avatarUrl": "/assets/images/avatars/avatar_6.jpg",
+        "name": "Frances Swaniawski",
+        "company": "Cremin Group",
+        "isVerified": true,
+        "status": "banned",
+        "role": "Full Stack Designer"
+    },
+    {
+        "id": "37210b35-aab6-4c77-9850-3a2f3e112cc1",
+        "avatarUrl": "/assets/images/avatars/avatar_7.jpg",
+        "name": "Francisco Stoltenberg",
+        "company": "Gutkowski, Rice and Halvorson",
+        "isVerified": false,
+        "status": "banned",
+        "role": "UI/UX Designer"
+    },
+    {
+        "id": "88aa6be8-d2d2-485b-a6db-c5b2ad8fbc7b",
+        "avatarUrl": "/assets/images/avatars/avatar_8.jpg",
+        "name": "Marian O'Keefe",
+        "company": "Kiehn, Ankunding and Walker",
+        "isVerified": false,
+        "status": "active",
+        "role": "UI/UX Designer"
+    },
+    {
+        "id": "74f3e447-f723-4a8c-b6ca-0e73809a3742",
+        "avatarUrl": "/assets/images/avatars/avatar_9.jpg",
+        "name": "Lucille Will PhD",
+        "company": "Pfannerstill, West and Batz",
+        "isVerified": false,
+        "status": "active",
+        "role": "UX Designer"
+    },
+    {
+        "id": "a3e3f429-88c5-461b-9022-0caec9fc67e0",
+        "avatarUrl": "/assets/images/avatars/avatar_10.jpg",
+        "name": "Max Jenkins",
+        "company": "Johns, Schimmel and DuBuque",
+        "isVerified": true,
+        "status": "banned",
+        "role": "Front End Developer"
+    },
+    {
+        "id": "c89b12e3-d4d9-4997-919c-0ee22347dacd",
+        "avatarUrl": "/assets/images/avatars/avatar_11.jpg",
+        "name": "Joan Yundt",
+        "company": "Huels Inc",
+        "isVerified": true,
+        "status": "banned",
+        "role": "Full Stack Developer"
+    },
+    {
+        "id": "06f9e86e-ad5c-40f6-ad0a-be13d63ba14a",
+        "avatarUrl": "/assets/images/avatars/avatar_12.jpg",
+        "name": "Elaine Oberbrunner",
+        "company": "Schiller - Nolan",
+        "isVerified": true,
+        "status": "banned",
+        "role": "Leader"
+    },
+    {
+        "id": "389d35c9-d8f1-4ce8-b655-ca7a46381f7b",
+        "avatarUrl": "/assets/images/avatars/avatar_13.jpg",
+        "name": "Charlotte Romaguera",
+        "company": "Gerlach, Haag and Wiegand",
+        "isVerified": true,
+        "status": "banned",
+        "role": "UI Designer"
+    },
+    {
+        "id": "5db554e1-376c-42f7-ab7c-0e50822afbef",
+        "avatarUrl": "/assets/images/avatars/avatar_14.jpg",
+        "name": "Bessie Cronin",
+        "company": "Wilkinson, Schmeler and Hackett",
+        "isVerified": true,
+        "status": "active",
+        "role": "Backend Developer"
+    },
+    {
+        "id": "45d138f9-8afb-4770-8fda-0dc29819a58f",
+        "avatarUrl": "/assets/images/avatars/avatar_15.jpg",
+        "name": "Russell Weimann",
+        "company": "Zboncak - Bartell",
+        "isVerified": true,
+        "status": "banned",
+        "role": "Backend Developer"
+    },
+    {
+        "id": "0f7c6b62-67ff-4a93-9891-4ed9c6eb8f42",
+        "avatarUrl": "/assets/images/avatars/avatar_16.jpg",
+        "name": "Fredrick Boyle",
+        "company": "Okuneva Group",
+        "isVerified": false,
+        "status": "active",
+        "role": "Front End Developer"
+    },
+    {
+        "id": "9a11a57c-e849-49e2-a43f-f7e83145f610",
+        "avatarUrl": "/assets/images/avatars/avatar_17.jpg",
+        "name": "Abel Volkman",
+        "company": "Hammes - Wolf",
+        "isVerified": true,
+        "status": "active",
+        "role": "UX Designer"
+    },
+    {
+        "id": "0938e1e0-6223-4541-8441-6fc7f5d11b52",
+        "avatarUrl": "/assets/images/avatars/avatar_18.jpg",
+        "name": "Stewart Lang",
+        "company": "Johnson, Berge and Parisian",
+        "isVerified": false,
+        "status": "banned",
+        "role": "UX Designer"
+    },
+    {
+        "id": "4bfe34fa-b842-4fb6-98f9-a58045cc332f",
+        "avatarUrl": "/assets/images/avatars/avatar_19.jpg",
+        "name": "Lila Wuckert",
+        "company": "Schiller - Pfannerstill",
+        "isVerified": true,
+        "status": "banned",
+        "role": "Leader"
+    },
+    {
+        "id": "b782d06e-7eee-4436-a963-58b3476efe25",
+        "avatarUrl": "/assets/images/avatars/avatar_20.jpg",
+        "name": "Nathaniel Renner",
+        "company": "Sawayn - Kling",
+        "isVerified": false,
+        "status": "banned",
+        "role": "UI Designer"
+    },
+    {
+        "id": "703cae62-d971-40c6-ba43-9366802c0857",
+        "avatarUrl": "/assets/images/avatars/avatar_21.jpg",
+        "name": "Nicole King",
+        "company": "Legros and Sons",
+        "isVerified": true,
+        "status": "active",
+        "role": "UI/UX Designer"
+    },
+    {
+        "id": "68667fdb-bb7d-4584-95d9-bb39e42a7ea2",
+        "avatarUrl": "/assets/images/avatars/avatar_22.jpg",
+        "name": "Fred Schmitt",
+        "company": "Senger, Simonis and Kihn",
+        "isVerified": false,
+        "status": "active",
+        "role": "UI/UX Designer"
+    },
+    {
+        "id": "c3819f21-1fd1-4e0f-be0d-b7ecdf62a823",
+        "avatarUrl": "/assets/images/avatars/avatar_23.jpg",
+        "name": "Dominick Mills",
+        "company": "Cassin, Schinner and Bradtke",
+        "isVerified": true,
+        "status": "banned",
+        "role": "UX Designer"
+    },
+    {
+        "id": "59e8407e-510b-44b9-887c-794e214b5287",
+        "avatarUrl": "/assets/images/avatars/avatar_24.jpg",
+        "name": "Mrs. Guadalupe Waelchi",
+        "company": "Stroman Inc",
+        "isVerified": false,
+        "status": "active",
+        "role": "Front End Developer"
+    },
+    {
+        "id": "1b0fc8cd-bc1a-43fe-8f08-b7ebf7a920e0",
+        "avatarUrl": "/assets/images/avatars/avatar_25.jpg",
+        "name": "Antonio Douglas",
+        "company": "Barrows - Sanford",
+        "isVerified": true,
+        "status": "banned",
+        "role": "Backend Developer"
+    },
+    {
+        "id": "df11af24-59a1-4fe3-9adb-d280a9279433",
+        "avatarUrl": "/assets/images/avatars/avatar_26.jpg",
+        "name": "Dr. Andy Glover",
+        "company": "Huel - Barrows",
+        "isVerified": false,
+        "status": "banned",
+        "role": "Project Manager"
+    },
+    {
+        "id": "745db8b4-8a97-42cb-926f-e515156e24ba",
+        "avatarUrl": "/assets/images/avatars/avatar_27.jpg",
+        "name": "Alice Wolff",
+        "company": "Schroeder - Wisoky",
+        "isVerified": true,
+        "status": "active",
+        "role": "UI/UX Designer"
+    },
+    {
+        "id": "728827e7-9bb5-4d2f-856d-0f44d75577e1",
+        "avatarUrl": "/assets/images/avatars/avatar_28.jpg",
+        "name": "Scott Schmeler",
+        "company": "Huels - Bins",
+        "isVerified": false,
+        "status": "banned",
+        "role": "Full Stack Designer"
+    },
+    {
+        "id": "7d4f2df8-98aa-49c3-b3dd-ef3bd31bdf08",
+        "avatarUrl": "/assets/images/avatars/avatar_29.jpg",
+        "name": "Mr. May Kuvalis",
+        "company": "Morissette - Mosciski",
+        "isVerified": false,
+        "status": "banned",
+        "role": "UX Designer"
+    },
+    {
+        "id": "0d3af40d-46c0-4871-b8b3-e83377600e3a",
+        "avatarUrl": "/assets/images/avatars/avatar_30.jpg",
+        "name": "Patsy Miller",
+        "company": "Spencer, Graham and Jast",
+        "isVerified": true,
+        "status": "active",
+        "role": "UI Designer"
+    },
+    {
+        "id": "502cc8f3-6f9e-4225-9fec-791f87fdc5b1",
+        "avatarUrl": "/assets/images/avatars/avatar_31.jpg",
+        "name": "Mrs. Hilda Renner Jr.",
+        "company": "Daniel and Sons",
+        "isVerified": false,
+        "status": "banned",
+        "role": "UI/UX Designer"
+    },
+    {
+        "id": "5281410d-7d9f-4f9f-b09a-bab7085f2c14",
+        "avatarUrl": "/assets/images/avatars/avatar_32.jpg",
+        "name": "Maurice Marvin",
+        "company": "Johnston - Wilkinson",
+        "isVerified": false,
+        "status": "active",
+        "role": "Full Stack Developer"
+    },
+    {
+        "id": "7ce62ecd-d0e4-4e1d-b022-9d82c4e70f8e",
+        "avatarUrl": "/assets/images/avatars/avatar_33.jpg",
+        "name": "Miss Candice Bahringer",
+        "company": "Kreiger and Sons",
+        "isVerified": false,
+        "status": "active",
+        "role": "Full Stack Developer"
+    },
+    {
+        "id": "59063c2a-b6fb-4f7b-ade2-5c8a1336cc19",
+        "avatarUrl": "/assets/images/avatars/avatar_34.jpg",
+        "name": "Marshall Huel DDS",
+        "company": "Dooley Group",
+        "isVerified": false,
+        "status": "banned",
+        "role": "Leader"
+    },
+    {
+        "id": "3883a93b-0e39-4c9b-ae88-cb1e2b9acf10",
+        "avatarUrl": "/assets/images/avatars/avatar_35.jpg",
+        "name": "Rebecca Simonis",
+        "company": "Schamberger, O'Keefe and Homenick",
+        "isVerified": true,
+        "status": "banned",
+        "role": "Hr Manager"
+    },
+    {
+        "id": "afe2cdb1-a6c8-49de-bce5-f12afd717aeb",
+        "avatarUrl": "/assets/images/avatars/avatar_36.jpg",
+        "name": "Bert Klein",
+        "company": "Botsford - Mann",
+        "isVerified": true,
+        "status": "banned",
+        "role": "UI/UX Designer"
+    },
+    {
+        "id": "08256a27-6648-4b84-a35d-4c5fbf04bf9a",
+        "avatarUrl": "/assets/images/avatars/avatar_37.jpg",
+        "name": "Chris Marquardt",
+        "company": "Pollich Group",
+        "isVerified": true,
+        "status": "banned",
+        "role": "Front End Developer"
+    },
+    {
+        "id": "bc9ebe88-9a7e-45d7-b505-d06cae2f0342",
+        "avatarUrl": "/assets/images/avatars/avatar_38.jpg",
+        "name": "Esther Kautzer",
+        "company": "Parisian LLC",
+        "isVerified": true,
+        "status": "active",
+        "role": "Hr Manager"
+    },
+    {
+        "id": "b0cd6c03-9fc6-4127-8e0a-79578f2a6e73",
+        "avatarUrl": "/assets/images/avatars/avatar_39.jpg",
+        "name": "Tammy Goyette",
+        "company": "Abbott and Sons",
+        "isVerified": true,
+        "status": "banned",
+        "role": "Hr Manager"
+    },
+    {
+        "id": "53b01054-43df-4267-8714-3f71ae57fc19",
+        "avatarUrl": "/assets/images/avatars/avatar_40.jpg",
+        "name": "Maxine Abshire",
+        "company": "Kuvalis LLC",
+        "isVerified": false,
+        "status": "banned",
+        "role": "Front End Developer"
+    },
+    {
+        "id": "80fb6e79-34df-4b02-bc71-0efa6511366a",
+        "avatarUrl": "/assets/images/avatars/avatar_41.jpg",
+        "name": "Inez Anderson",
+        "company": "Bednar - Swift",
+        "isVerified": false,
+        "status": "banned",
+        "role": "UX Designer"
+    },
+    {
+        "id": "0876e974-0b99-4c60-87f8-e95aedf68ca7",
+        "avatarUrl": "/assets/images/avatars/avatar_42.jpg",
+        "name": "Sherry Wolf",
+        "company": "Lowe LLC",
+        "isVerified": true,
+        "status": "banned",
+        "role": "Front End Developer"
+    },
+    {
+        "id": "177fc6d5-bebc-4613-99cf-94c29add30dc",
+        "avatarUrl": "/assets/images/avatars/avatar_43.jpg",
+        "name": "Lorraine Satterfield",
+        "company": "Cole, Abshire and Runolfsdottir",
+        "isVerified": false,
+        "status": "banned",
+        "role": "UI Designer"
+    },
+    {
+        "id": "b1da272c-4c0e-41b6-8ec1-f9c9d65226f7",
+        "avatarUrl": "/assets/images/avatars/avatar_44.jpg",
+        "name": "Dr. Lena Carroll",
+        "company": "Stokes - Hansen",
+        "isVerified": true,
+        "status": "banned",
+        "role": "UX Designer"
+    },
+    {
+        "id": "3c30d1f3-d23d-4e23-9607-78141b2997f1",
+        "avatarUrl": "/assets/images/avatars/avatar_45.jpg",
+        "name": "Tanya Ferry",
+        "company": "Langworth Inc",
+        "isVerified": false,
+        "status": "banned",
+        "role": "UI/UX Designer"
+    },
+    {
+        "id": "fa4491ef-0356-4b9b-ba12-a5b49c77d5b2",
+        "avatarUrl": "/assets/images/avatars/avatar_46.jpg",
+        "name": "Stephanie Lowe",
+        "company": "Connelly and Sons",
+        "isVerified": false,
+        "status": "banned",
+        "role": "Front End Developer"
+    },
+    {
+        "id": "2a345738-fadc-46db-a9c4-f75a0ff4408f",
+        "avatarUrl": "/assets/images/avatars/avatar_47.jpg",
+        "name": "Marcos Okuneva",
+        "company": "Heidenreich, Balistreri and Simonis",
+        "isVerified": false,
+        "status": "banned",
+        "role": "Backend Developer"
+    },
+    {
+        "id": "c26b8a84-eb75-4ccd-af32-7e6ee4d8c9e4",
+        "avatarUrl": "/assets/images/avatars/avatar_48.jpg",
+        "name": "Terri Sporer",
+        "company": "Toy, Emard and Reynolds",
+        "isVerified": false,
+        "status": "banned",
+        "role": "Backend Developer"
+    },
+    {
+        "id": "449f11e1-3059-4e30-b9bb-f79cd9b31114",
+        "avatarUrl": "/assets/images/avatars/avatar_49.jpg",
+        "name": "Ramona Bins",
+        "company": "Block - Kozey",
+        "isVerified": false,
+        "status": "banned",
+        "role": "UI/UX Designer"
+    },
+    {
+        "id": "c23cab6f-eb82-4329-87a9-6effe6e2910a",
+        "avatarUrl": "/assets/images/avatars/avatar_50.jpg",
+        "name": "Joanna Hoppe",
+        "company": "Towne LLC",
+        "isVerified": true,
+        "status": "banned",
+        "role": "UX Designer"
+    }
+]

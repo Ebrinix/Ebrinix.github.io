@@ -89,6 +89,7 @@ export default function UserPage() {
   const [rowsPerPage, setRowsPerPage] = useState(5);
 
   const handleOpenMenu = (event) => {
+    console.log(event.currentTarget);
     setOpen(event.currentTarget);
   };
 

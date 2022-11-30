@@ -1,0 +1,137 @@
+[
+    {
+        "id": "19ce3f5b-13c1-4a94-bd46-243a1e121353",
+        "organization": "Aufderhar LLC",
+        "username": "EbriGoodness",
+        "email": "123test@gmail.com",
+        "phoneNumber": "+2348048457554",
+        "dateJoined": "Apr 10, 2022",
+        "status": "active"
+    },
+    {
+        "id": "19ce3f5b-13c1-4a94-bd46-24312e833353",
+        "organization": "Von - Schmeler",
+        "username": "JonathonMcGlynn",
+        "email": "321test@gmail.com",
+        "phoneNumber": "+2348048457333",
+        "dateJoined": "Apr 11, 2022",
+        "status": "active"
+    },
+    {
+        "id": "19ce3f5b-13c1-4a94-bd46-243a1e833353",
+        "organization": "Flatley Inc",
+        "username": "JuanitaMcClure",
+        "email": "444test@gmail.com",
+        "phoneNumber": "+2348048435554",
+        "dateJoined": "Sept 10, 2022",
+        "status": "banned"
+    },
+    {
+        "id": "19ce3f5b-13c1-4a94-bd46-243a1e83766",
+        "organization": "Kohler - Nader",
+        "username": "CaseyLemke",
+        "email": "454test@gmail.com",
+        "phoneNumber": "+2348048457894",
+        "dateJoined": "Dec 10, 2022",
+        "status": "active"
+    },
+    {
+        "id": "19ce3f5b-13c1-4a94-bd46-22324e833353",
+        "organization": "Welch LLC",
+        "username": "Adrienne",
+        "email": "111test@gmail.com",
+        "phoneNumber": "+2348056957554",
+        "dateJoined": "Apr 01, 2022",
+        "status": "active"
+    },
+    {
+        "id": "19ce45b-13c1-4a94-bd46-243a1e833353",
+        "organization": "Cremin Group",
+        "username": "Swaniawski",
+        "email": "909test@gmail.com",
+        "phoneNumber": "+2348048423554",
+        "dateJoined": "Jan 10, 2022",
+        "status": "banned"
+    },
+    {
+        "id": "19ce3f5b-13c1-4a94-bd46-21212e833353",
+        "organization": "Gutkowski, Rice and Halvorson",
+        "username": "Francisco",
+        "email": "555test@gmail.com",
+        "phoneNumber": "+2348048422344",
+        "dateJoined": "Apr 23, 2022",
+        "status": "banned"
+    },
+    {
+        "id": "19ce3f5b-13c1-427u-bd46-243a1e833353",
+        "organization": "Kiehn, Ankunding and Walker",
+        "username": "Marian",
+        "email": "766test@gmail.com",
+        "phoneNumber": "+2348048457554",
+        "dateJoined": "Apr 30, 2022",
+        "status": "active"
+    },
+    {
+        "id": "19ce3f5b-13c1-4a94-bd46-243a32433353",
+        "organization": "Pfannerstill, West and Batz",
+        "username": "Lucille",
+        "email": "344test@gmail.com",
+        "phoneNumber": "+2348044357554",
+        "dateJoined": "Mar 10, 2022",
+        "status": "banned"
+    },
+    {
+        "id": "19ce235b-13c1-4a94-bd46-243a1e833353",
+        "organization": "Johns, Schimmel and DuBuque",
+        "username": "Jenkins",
+        "email": "598test@gmail.com",
+        "phoneNumber": "+2348048217554",
+        "dateJoined": "May 10, 2022",
+        "status": "active"
+    },
+    {
+        "id": "19ce3f5b-13c1-4a94-bd46-243a17123353",
+        "organization": "Huels Inc",
+        "username": "Yundt",
+        "email": "115test@gmail.com",
+        "phoneNumber": "+2348048457522",
+        "dateJoined": "Apr 13, 2022",
+        "status": "active"
+    },
+    {
+        "id": "19ce3f5b-13c1-4a94-bd46-24121e833353",
+        "organization": "Schiller - Nolan",
+        "username": "Oberbrunner",
+        "email": "788test@gmail.com",
+        "phoneNumber": "+2348048457565",
+        "dateJoined": "Apr 19, 2022",
+        "status": "banned"
+    },
+    {
+        "id": "19ce3f5b-13c1-4a94-bd46-243a1e833353",
+        "organization": "Gerlach, Haag and Wiegand",
+        "username": "Charlotte",
+        "email": "768test@gmail.com",
+        "phoneNumber": "+2348048457143",
+        "dateJoined": "Aug 10, 2022",
+        "status": "banned"
+    },
+    {
+        "id": "19ce3f5b-13c1-4a94-bd46-265a1e833663",
+        "organization": "Wilkinson, Schmeler and Hackett",
+        "username": "Bessie",
+        "email": "890test@gmail.com",
+        "phoneNumber": "+2348048457590",
+        "dateJoined": "Nov 10, 2022",
+        "status": "active"
+    },
+    {
+        "id": "19ce3f5b-13c1-4a94-bd46-243a1e839803",
+        "organization": "Zboncak - Bartell",
+        "username": "Russell",
+        "email": "900test@gmail.com",
+        "phoneNumber": "+2348048458004",
+        "dateJoined": "Feb 10, 2022",
+        "status": "active"
+    }
+]
