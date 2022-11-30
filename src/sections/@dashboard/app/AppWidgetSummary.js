@@ -1,4 +1,5 @@
 // @mui
+import { useState } from 'react';
 import PropTypes from 'prop-types';
 import { alpha, styled } from '@mui/material/styles';
 import { Card, Typography } from '@mui/material';
@@ -42,6 +43,8 @@ AppWidgetSummary.propTypes = {
 };
 
 export default function AppWidgetSummary({ title, total, icon, color = 'primary', sx, ...other }) {
+  const [iconType, setIconType] = useState(icon);
+  console.log(iconType);
   return (
     <Card
       sx={{
@@ -54,18 +57,42 @@ export default function AppWidgetSummary({ title, total, icon, color = 'primary'
       }}
       {...other}
     >
-      <StyledIconLeft
-        sx={{
-          color: (theme) => theme.palette[color].dark,
-          backgroundImage: (theme) =>
-            `linear-gradient(135deg, ${alpha(theme.palette[color].dark, 0)} 0%, ${alpha(
-              theme.palette[color].dark,
-              0.24
-            )} 100%)`,
-        }}
-      >
-        <Iconify icon={icon} width={14} height={14} />
-      </StyledIconLeft>
+      {iconType === 'users1' ? (
+        <img
+          alt="Alt Name"
+          src="/assets/images/avatars/icon.png"
+          style={{ marginBottom: '8px' }}
+          width={40}
+          height={40}
+        />
+      ) : null}
+      {iconType === 'users2' ? (
+        <img
+          alt="Alt Name"
+          src="/assets/images/avatars/icon_1.png"
+          style={{ marginBottom: '8px' }}
+          width={40}
+          height={40}
+        />
+      ) : null}
+      {iconType === 'users3' ? (
+        <img
+          alt="Alt Name"
+          src="/assets/images/avatars/icon_2.png"
+          style={{ marginBottom: '8px' }}
+          width={40}
+          height={40}
+        />
+      ) : null}
+      {iconType === 'users4' ? (
+        <img
+          alt="Alt Name"
+          src="/assets/images/avatars/icon_3.png"
+          style={{ marginBottom: '8px' }}
+          width={40}
+          height={40}
+        />
+      ) : null}
       <Typography variant="subtitle2" sx={{ opacity: 0.72 }}>
         {title}
       </Typography>

@@ -219,24 +219,19 @@ export default function DashboardAppPage({ sx, ...other }) {
 
         <Grid container spacing={3}>
           <Grid item xs={12} sm={6} md={3}>
-            <AppWidgetSummary title="USERS" total={714000} icon={'ant-design:android-filled'} />
+            <AppWidgetSummary title="USERS" total={714000} icon={'users1'} />
           </Grid>
 
           <Grid item xs={12} sm={6} md={3}>
-            <AppWidgetSummary title="ACTIVE USERS" color="success" icon={'ant-design:apple-filled'} total={1352831} />
+            <AppWidgetSummary title="ACTIVE USERS" color="success" icon={'users2'} total={1352831} />
           </Grid>
 
           <Grid item xs={12} sm={6} md={3}>
-            <AppWidgetSummary
-              title="USERS WITH LOANS"
-              total={1723315}
-              color="primary"
-              icon={'ant-design:windows-filled'}
-            />
+            <AppWidgetSummary title="USERS WITH LOANS" total={1723315} color="primary" icon={'users3'} />
           </Grid>
 
           <Grid item xs={12} sm={6} md={3}>
-            <AppWidgetSummary title="USERS WITH SAVINGS" total={234} color="error" icon={'ant-design:bug-filled'} />
+            <AppWidgetSummary title="USERS WITH SAVINGS" total={234} color="error" icon={'users4'} />
           </Grid>
         </Grid>
 
